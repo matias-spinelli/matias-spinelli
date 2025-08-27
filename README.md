@@ -1,5 +1,9 @@
 # 👋 Hola, soy Matías Spinelli
 
+<p align="center">
+<img width="1536" height="1024" alt="ChatGPT Image Aug 26, 2025, 10_44_17 PM" src="https://github.com/user-attachments/assets/d024c848-a3c5-466d-8cc5-7dc260fe03d5" />
+</p>
+
 **Senior iOS & Frontend Developer**
 
 Desarrollador con +14 años de experiencia en iOS (Swift, SwiftUI, UIKit) y frontend moderno (Angular, React).
