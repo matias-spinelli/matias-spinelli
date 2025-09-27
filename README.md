@@ -58,5 +58,5 @@ Mentor de equipos, apasionado por el código limpio y el diseño intuitivo.
 ## 📫 Contacto
 
 - 📧 Email: **matias.spinelli@gmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/matias-spinelli
+- 💼 LinkedIn: https://ar.linkedin.com/in/matias-spinelli-17655835
 
