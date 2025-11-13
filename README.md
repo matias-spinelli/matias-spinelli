@@ -96,7 +96,7 @@ Tecnologías: **SwiftUI, Combine**
 
 ---
 
-### [**TheSimpsonsApp**](https://github.com/matias-spinelli/TheSimpsonsApp)
+### [**TheSimpsonsApp**](https://github.com/matias-spinelli/simpsons_app)
 App híbrida (iOS / Android / Web) desarrollada en **Flutter** para aprender el framework.  
 Consumo de API pública, diseño responsivo y arquitectura limpia.  
 Tecnologías: **Flutter, Dart, REST API**
