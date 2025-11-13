@@ -14,12 +14,14 @@ Mentor de equipos, apasionado por el código limpio y el diseño intuitivo.
 
 ## ⚡ Tech Stack
 
+
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-4BC51D?style=flat&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=flat&logo=apple&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-00CDEB?style=flat&logo=apple&logoColor=white)  
+![Combine](https://img.shields.io/badge/Combine-00CDEB?style=flat&logo=apple&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -31,7 +33,7 @@ Mentor de equipos, apasionado por el código limpio y el diseño intuitivo.
 
 ## 🏹 Experiencia
 
-- **Accenture Argentina** (2024 – Actualidad)  
+- **Accenture Argentina** (2024 – 2025)  
   _Cliente: Santander Argentina_  
   - Mantenimiento y mejoras en el módulo de Transferencias usado por +2M de usuarios.  
   - People Lead: mentoría de 6 desarrolladores iOS.  
@@ -48,10 +50,61 @@ Mentor de equipos, apasionado por el código limpio y el diseño intuitivo.
 
 ---
 
-## 🌍 Idiomas
+## 🚀 Repositorios Destacados
 
-- 🇬🇧 Inglés técnico – lectura de documentación y comunicación escrita.  
-- 🇧🇷 Portugués – nivel básico.  
+### [**PaulaCochina**](https://github.com/matias-spinelli/PaulaCochina)
+Aplicación web de recetas desarrollada en Angular como trabajo final de curso.  
+Incluye favoritos, animaciones, persistencia local y un diseño moderno tipo app.  
+Tecnologías: **Angular, TypeScript, LocalStorage, Animations**
+
+| ![PaulaCochina 1](https://github.com/user-attachments/assets/placeholder1) | ![PaulaCochina 2](https://github.com/user-attachments/assets/placeholder2) | ![PaulaCochina 3](https://github.com/user-attachments/assets/placeholder3) |
+|:--:|:--:|:--:|
+| Home | Favoritos | Detalle de receta |
+
+---
+
+### [**PaulaCochinaAPI**](https://github.com/matias-spinelli/PaulaCochinaAPI)
+Backend REST en **Swift** con **Vapor**, creado para servir a la app PaulaCochina.  
+Incluye autenticación JWT, endpoints CRUD y estructura modular.  
+Tecnologías: **Swift, Vapor, REST, JWT Auth**
+
+| ![API 1](https://github.com/user-attachments/assets/placeholder1) | ![API 2](https://github.com/user-attachments/assets/placeholder2) |
+|:--:|:--:|
+| Endpoints | Estructura del proyecto |
+
+---
+
+### [**ChuleTuTe**](https://github.com/matias-spinelli/ChuleTuTe)
+Aplicación web desarrollada en **ReactJS** como proyecto final de curso.  
+Interfaz responsive, componentes reutilizables y diseño visual personalizado.  
+Tecnologías: **ReactJS, TypeScript, Styled Components**
+
+| ![ChuleTuTe 1](https://github.com/user-attachments/assets/placeholder1) | ![ChuleTuTe 2](https://github.com/user-attachments/assets/placeholder2) | ![ChuleTuTe 3](https://github.com/user-attachments/assets/placeholder3) |
+|:--:|:--:|:--:|
+| Home | Productos | Detalle |
+
+---
+
+### [**CVTuTe 2.0**](https://github.com/matias-spinelli/CVTuTe2.0)
+App iOS creada en **SwiftUI** para aprender el lenguaje y presentar el portfolio personal.  
+Experimentos con transiciones, animaciones y navegación.  
+Tecnologías: **SwiftUI, Combine**
+
+| ![CVTuTe 1](https://github.com/user-attachments/assets/placeholder1) | ![CVTuTe 2](https://github.com/user-attachments/assets/placeholder2) |
+|:--:|:--:|
+| Vista principal | Detalle animado |
+
+---
+
+### [**TheSimpsonsApp**](https://github.com/matias-spinelli/TheSimpsonsApp)
+App híbrida (iOS / Android / Web) desarrollada en **Flutter** para aprender el framework.  
+Consumo de API pública, diseño responsivo y arquitectura limpia.  
+Tecnologías: **Flutter, Dart, REST API**
+
+| ![Simpsons 1](https://github.com/user-attachments/assets/placeholder1) | ![Simpsons 2](https://github.com/user-attachments/assets/placeholder2) |
+|:--:|:--:|
+| Listado | Detalle |
+
 
 ---
 
