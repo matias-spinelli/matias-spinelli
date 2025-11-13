@@ -101,7 +101,7 @@ App híbrida (iOS / Android / Web) desarrollada en **Flutter** para aprender el 
 Consumo de API pública, diseño responsivo y arquitectura limpia.  
 Tecnologías: **Flutter, Dart, REST API**
 
-| ![Simpsons 1](https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/simpsons_app/Listado.png) | ![Simpsons 2](https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/simpsons_app/Detalle.png) |
+| <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/simpsons_app/Listado.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/simpsons_app/Detalle.png" width="260"/> |
 |:--:|:--:|
 | Listado | Detalle |
 
