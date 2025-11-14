@@ -90,9 +90,9 @@ App iOS creada en **SwiftUI** para aprender el lenguaje y presentar el portfolio
 Experimentos con transiciones, animaciones y navegación.  
 Tecnologías: **SwiftUI, Combine**
 
-| ![CVTuTe 1](https://github.com/user-attachments/assets/placeholder1) | ![CVTuTe 2](https://github.com/user-attachments/assets/placeholder2) |
-|:--:|:--:|
-| Vista principal | Detalle animado |
+| <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/CvTuTe2.0/Home.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/CvTuTe2.0/Skill.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/CvTuTe2.0/Skills-Detail.png" width="260"/> |
+|:--:|:--:|:--:|
+| Home | Skills | Skills Detail |
 
 ---
 
