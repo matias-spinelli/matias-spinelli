@@ -31,26 +31,40 @@ Mentor de equipos, apasionado por el código limpio y el diseño intuitivo.
 
 ---
 
-## 🏹 Experiencia
+## 🚀 Repositorios Destacados
 
-- **Accenture Argentina** (2024 – 2025)  
-  _Cliente: Santander Argentina_  
-  - Mantenimiento y mejoras en el módulo de Transferencias usado por +2M de usuarios.  
-  - People Lead: mentoría de 6 desarrolladores iOS.  
+### [**CVTuTe 2.0**](https://github.com/matias-spinelli/CVTuTe2.0)
+App iOS creada en **SwiftUI** para aprender el lenguaje y presentar el portfolio personal.  
+Experimentos con transiciones, animaciones y navegación.  
+Tecnologías: **SwiftUI, Combine**
 
-- **Acid Labs** (2023 – 2024)  
-  _Cliente: Cencosud, Chile – App CencoPay_  
-  - Desarrollo de nuevas funcionalidades y resolución de bugs usando SwiftUI.  
-
-- **Nisum Latam** (2023 – 2024)  
-  _Cliente: BCI, Chile_  
-  - Desarrollo de pantallas y mantenimiento de módulos de Tarjetas, Commons y Cuentas.  
-
-*(y más experiencia en Kavak, Naranja X, Wolox, Globant, Galicia, Mercado Pago…)*  
+| <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/CvTuTe2.0/Home.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/CvTuTe2.0/Skill.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/CvTuTe2.0/Skills-Detail.png" width="260"/> |
+|:--:|:--:|:--:|
+| Home | Skills | Skills Detail |
 
 ---
 
-## 🚀 Repositorios Destacados
+### [**TheSimpsonsApp**](https://github.com/matias-spinelli/simpsons_app)
+App híbrida (iOS / Android / Web) desarrollada en **Flutter** para aprender el framework.  
+Consumo de API pública, diseño responsivo y arquitectura limpia.  
+Tecnologías: **Flutter, Dart, REST API**
+
+| <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/simpsons_app/Listado.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/simpsons_app/Detalle.png" width="260"/> |
+|:--:|:--:|
+| Listado | Detalle |
+
+---
+
+### [**ChuleTuTe**](https://github.com/matias-spinelli/ChuleTuTe)
+Aplicación web desarrollada en **ReactJS** como proyecto final de curso.  
+Interfaz responsive, componentes reutilizables y diseño visual personalizado.  
+Tecnologías: **ReactJS, TypeScript, Styled Components**
+
+| ![ChuleTuTe 1](https://github.com/user-attachments/assets/placeholder1) | ![ChuleTuTe 2](https://github.com/user-attachments/assets/placeholder2) | ![ChuleTuTe 3](https://github.com/user-attachments/assets/placeholder3) |
+|:--:|:--:|:--:|
+| Home | Productos | Detalle |
+
+---
 
 ### [**PaulaCochina**](https://github.com/matias-spinelli/PaulaCochina)
 Aplicación web de recetas desarrollada en Angular como trabajo final de curso.  
@@ -74,37 +88,22 @@ Tecnologías: **Swift, Vapor, REST, JWT Auth**
 
 ---
 
-### [**ChuleTuTe**](https://github.com/matias-spinelli/ChuleTuTe)
-Aplicación web desarrollada en **ReactJS** como proyecto final de curso.  
-Interfaz responsive, componentes reutilizables y diseño visual personalizado.  
-Tecnologías: **ReactJS, TypeScript, Styled Components**
+## 🏹 Experiencia
 
-| ![ChuleTuTe 1](https://github.com/user-attachments/assets/placeholder1) | ![ChuleTuTe 2](https://github.com/user-attachments/assets/placeholder2) | ![ChuleTuTe 3](https://github.com/user-attachments/assets/placeholder3) |
-|:--:|:--:|:--:|
-| Home | Productos | Detalle |
+- **Accenture Argentina** (2024 – 2025)  
+  _Cliente: Santander Argentina_  
+  - Mantenimiento y mejoras en el módulo de Transferencias usado por +2M de usuarios.  
+  - People Lead: mentoría de 6 desarrolladores iOS.  
 
----
+- **Acid Labs** (2023 – 2024)  
+  _Cliente: Cencosud, Chile – App CencoPay_  
+  - Desarrollo de nuevas funcionalidades y resolución de bugs usando SwiftUI.  
 
-### [**CVTuTe 2.0**](https://github.com/matias-spinelli/CVTuTe2.0)
-App iOS creada en **SwiftUI** para aprender el lenguaje y presentar el portfolio personal.  
-Experimentos con transiciones, animaciones y navegación.  
-Tecnologías: **SwiftUI, Combine**
+- **Nisum Latam** (2023 – 2024)  
+  _Cliente: BCI, Chile_  
+  - Desarrollo de pantallas y mantenimiento de módulos de Tarjetas, Commons y Cuentas.  
 
-| <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/CvTuTe2.0/Home.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/CvTuTe2.0/Skill.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/CvTuTe2.0/Skills-Detail.png" width="260"/> |
-|:--:|:--:|:--:|
-| Home | Skills | Skills Detail |
-
----
-
-### [**TheSimpsonsApp**](https://github.com/matias-spinelli/simpsons_app)
-App híbrida (iOS / Android / Web) desarrollada en **Flutter** para aprender el framework.  
-Consumo de API pública, diseño responsivo y arquitectura limpia.  
-Tecnologías: **Flutter, Dart, REST API**
-
-| <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/simpsons_app/Listado.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/simpsons_app/Detalle.png" width="260"/> |
-|:--:|:--:|
-| Listado | Detalle |
-
+*(y más experiencia en Kavak, Naranja X, Wolox, Globant, Galicia, Mercado Pago…)*  
 
 ---
 
