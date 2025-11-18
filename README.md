@@ -60,7 +60,7 @@ Aplicación web desarrollada en **ReactJS** como proyecto final de curso.
 Interfaz responsive, componentes reutilizables y diseño visual personalizado.  
 Tecnologías: **ReactJS, TypeScript, Styled Components**
 
-| <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/ChuleTuTe/Home.png"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/ChuleTuTe/Detail.png"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/ChuleTuTe/AddProduct.png"/> |
+| <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/ChuleTuTe/HomeMobile.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/ChuleTuTe/DetailMobile.png" width="260"/> | <img src="https://github.com/matias-spinelli/matias-spinelli/blob/main/assets/ChuleTuTe/CartMobile.png" width="260"/> |
 |:--:|:--:|:--:|
 | Home | Detail | Cart |
 
